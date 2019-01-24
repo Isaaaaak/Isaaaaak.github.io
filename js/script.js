@@ -1,3 +1,3 @@
-function btnn () {
+function myFunction() {
     alert("I like children!");
 }

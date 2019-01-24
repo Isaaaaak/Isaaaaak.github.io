@@ -47,6 +47,12 @@ main .btn {
    padding: 20px 40px;
 }
 
+button {
+    height: 40px;
+    width: 60px;
+    background: red;
+}
+
 
 
 
